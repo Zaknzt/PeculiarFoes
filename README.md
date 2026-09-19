@@ -72,7 +72,7 @@ Peculiar Foes III uses the Aht Urhgan / Nyzul / Hediva route rather than the Cap
 
 ## Version
 
-Current public release candidate: **v0.1.5**.
+Current version: **v0.1.5**.
 
 See [CHANGELOG.md](CHANGELOG.md) for release history.
 
